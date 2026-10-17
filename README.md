@@ -56,47 +56,6 @@ I don't have it all figured out yet, and that's part of the journey. Every proje
 
 ---
 
-### 🚀 Featured Projects
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left" style="background-color:#0369A1; color:#ffffff; padding:8px 12px;">Project</th>
-      <th align="left" style="background-color:#0369A1; color:#ffffff; padding:8px 12px;">Language</th>
-      <th align="center" style="background-color:#0369A1; color:#ffffff; padding:8px 12px;">⭐</th>
-      <th align="center" style="background-color:#0369A1; color:#ffffff; padding:8px 12px;">🍴</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color:#F0F9FF;">
-      <td style="padding:8px 12px;"><a href="https://github.com/aras-SIGMA/Novelist-website"><b>Novelist-website</b></a></td>
-      <td style="padding:8px 12px;">🟣 CSS</td>
-      <td align="center" style="padding:8px 12px;">1</td>
-      <td align="center" style="padding:8px 12px;">1</td>
-    </tr>
-    <tr style="background-color:#E0F2FE;">
-      <td style="padding:8px 12px;"><a href="https://github.com/aras-SIGMA/Menghitung-Data-Nilai-Siswa"><b>Menghitung-Data-Nilai-Siswa</b></a></td>
-      <td style="padding:8px 12px;">🔵 Python</td>
-      <td align="center" style="padding:8px 12px;">1</td>
-      <td align="center" style="padding:8px 12px;">0</td>
-    </tr>
-    <tr style="background-color:#F0F9FF;">
-      <td style="padding:8px 12px;"><a href="https://github.com/aras-SIGMA/Bot-Telegram"><b>Bot-Telegram</b></a></td>
-      <td style="padding:8px 12px;">🟡 JavaScript</td>
-      <td align="center" style="padding:8px 12px;">1</td>
-      <td align="center" style="padding:8px 12px;">0</td>
-    </tr>
-    <tr style="background-color:#E0F2FE;">
-      <td style="padding:8px 12px;"><a href="https://github.com/aras-SIGMA/QR-Code-Generator"><b>QR-Code-Generator</b></a></td>
-      <td style="padding:8px 12px;">🟣 CSS</td>
-      <td align="center" style="padding:8px 12px;">1</td>
-      <td align="center" style="padding:8px 12px;">0</td>
-    </tr>
-  </tbody>
-</table>
-
----
-
 ### 📫 Get in Touch
 
 <p align="center">
