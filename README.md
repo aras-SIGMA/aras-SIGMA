@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aras · aras-SIGMA
+# Stefano Hari · ras.dev
 
 SMK student building across **Full-Stack Web**, **AI Engineering**, and **Data Analysis**
 
