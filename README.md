@@ -36,7 +36,7 @@ SMK student building across **Full-Stack Web**, **AI Engineering**, and **Data A
 
 </div>
 
-<details open>
+<details>
 <summary><b><i>Programming Languages</i></b></summary>
 <br>
 
@@ -47,7 +47,7 @@ SMK student building across **Full-Stack Web**, **AI Engineering**, and **Data A
 
 </details>
 
-<details open>
+<details>
 <summary><b><i>Frontend & Mobile Frameworks</i></b></summary>
 <br>
 
@@ -60,7 +60,7 @@ SMK student building across **Full-Stack Web**, **AI Engineering**, and **Data A
 
 </details>
 
-<details open>
+<details>
 <summary><b><i>Backend Frameworks</i></b></summary>
 <br>
 
