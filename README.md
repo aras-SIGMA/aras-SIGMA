@@ -1,77 +1,119 @@
-<h1 align="center">Hi, I'm Stefano Hari</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1000&color=0369A1&center=true&vCenter=true&width=560&height=40&repeat=true&lines=Aspiring+Data+Scientist+%26+AI+Engineer;Turning+raw+data+into+meaningful+insights;Always+exploring%2C+always+learning" alt="Typing SVG" />
-</p>
+# Aras · aras-SIGMA
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0369A1,50:38BDF8,100:BAE6FD&height=3" />
+SMK student building across **Full-Stack Web**, **AI Engineering**, and **Data Analysis**
 
-<p align="center">
-  <a href="https://linkedin.com/in/aras-SIGMA"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email@yourname.com"><img src="https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/aras-SIGMA"><img src="https://img.shields.io/badge/Twitter-0EA5E9?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-aras--SIGMA-94A3B8?style=flat-square&logo=github)](https://github.com/aras-SIGMA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-94A3B8?style=flat-square&logo=linkedin)](https://linkedin.com/in/ISI_DISINI)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-94A3B8?style=flat-square&logo=instagram)](https://instagram.com/ISI_DISINI)
+[![Email](https://img.shields.io/badge/Email-Contact-94A3B8?style=flat-square&logo=gmail)](mailto:ISI_DISINI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-94A3B8?style=flat-square&logo=googlechrome)](https://ISI_DISINI)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aras-SIGMA&label=Profile%20Views&color=0ea5e9&style=flat-square" />
-</p>
+![Views](https://komarev.com/ghpvc/?username=aras-SIGMA&label=views&color=38BDF8&style=flat-square)
+
+</div>
 
 ---
 
-### 👋 About Me
+Building digital products from the ground up — from user interfaces to ML models to data pipelines. Currently deep-diving into Flutter for cross-platform mobile and PyTorch model deployment.
 
-I'm a student on a journey into the world of **Data Science** and **AI Engineering**. It started with curiosity — wanting to understand what's really happening behind the numbers — and quickly turned into a genuine passion for turning raw, messy data into something people can actually understand and act on.
-
-Right now, most of my time goes into **data analysis and visualization**: cleaning datasets, spotting patterns, and building charts that tell a story at a glance. But I'm not staying in one lane — I'm actively exploring machine learning, deep learning, and the growing world of generative AI, picking up new tools and concepts along the way.
-
-I don't have it all figured out yet, and that's part of the journey. Every project is a small step closer to becoming the data scientist and AI engineer I'm working toward being — and I'm documenting that growth right here on GitHub.
-
-**Currently learning:** Python for data analysis, SQL, and the fundamentals of machine learning
-**Goal:** To grow into a well-rounded Data Scientist & AI Engineer who can turn data into real, meaningful impact
+> *Shipping things is how I learn.*
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,postgres,redis,docker,kubernetes,aws,git&theme=light" />
-</p>
+<details open>
+<summary><b>Core Stack</b></summary>
+<br>
+
+`TypeScript` `Python` `Next.js` `React` `Node.js` `Express.js` `Tailwind CSS` `Flutter`
+
+</details>
+
+<details>
+<summary><b>Frontend & Mobile</b></summary>
+<br>
+
+| | Technologies |
+|:--|:--|
+| Languages | JavaScript, TypeScript |
+| Frameworks | React, Next.js, Vue.js, Svelte |
+| Styling | Tailwind CSS, CSS |
+| Mobile | Flutter |
+
+</details>
+
+<details>
+<summary><b>Backend & Database</b></summary>
+<br>
+
+| | Technologies |
+|:--|:--|
+| Runtime | Node.js |
+| Framework | Express.js |
+| Database | PostgreSQL, MySQL |
+| BaaS | Supabase |
+
+</details>
+
+<details>
+<summary><b>AI & Data Science</b></summary>
+<br>
+
+| | Technologies |
+|:--|:--|
+| Languages | Python |
+| ML Framework | PyTorch |
+| Data | NumPy, Pandas |
+
+</details>
+
+<details>
+<summary><b>Tools & DevOps</b></summary>
+<br>
+
+`Git` `GitHub` `VS Code`
+
+</details>
 
 ---
 
-### 📊 GitHub Stats
+## 📁 Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aras-SIGMA&show_icons=true&theme=transparent&hide_border=true&title_color=0284C7&icon_color=38BDF8&text_color=0369A1&ring_color=0EA5E9&cache_seconds=86400" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=aras-SIGMA&theme=transparent&hide_border=true&ring=0EA5E9&fire=0284C7&currStreakLabel=0369A1&sideLabels=0369A1&dates=94A3B8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aras-SIGMA&layout=compact&theme=transparent&hide_border=true&title_color=0284C7&text_color=0369A1&langs_count=8&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aras-SIGMA&theme=react-dark&hide_border=true&bg_color=00000000&color=0284C7&line=0EA5E9&point=0369A1" width="100%" />
-</p>
+| Project | Stack | Status |
+|:--|:--|:--:|
+| [**Photographer Social**](https://github.com/aras-SIGMA) — Social platform for photographers to showcase and connect | Next.js · Express · TypeScript | `live` |
+| [**Info Share App**](https://github.com/aras-SIGMA) — Real-time information distribution across mobile & web | Flutter · Next.js · Supabase | `live` |
+| [**UMKM Web Builder**](https://github.com/aras-SIGMA) — Instant website builder for small businesses | Vue.js · Svelte · TypeScript | `in dev` |
+| [**Rock Paper Scissors AI**](https://github.com/aras-SIGMA) — Gesture-detecting ML model that plays autonomously | Python · PyTorch · NumPy | `live` |
 
 ---
 
-### 📫 Get in Touch
+## 📊 GitHub
 
-<p align="center">
-  <a href="mailto:email@yourname.com"><img src="https://img.shields.io/badge/Email-0284C7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/aras-SIGMA"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/aras-SIGMA"><img src="https://img.shields.io/badge/GitHub-0369A1?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/aras-SIGMA"><img src="https://img.shields.io/badge/Twitter-0EA5E9?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <br />
-  <a href="https://instagram.com/aras-SIGMA"><img src="https://img.shields.io/badge/Instagram-7DD3FC?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@aras-SIGMA"><img src="https://img.shields.io/badge/YouTube-0284C7?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://discord.com/users/aras-SIGMA"><img src="https://img.shields.io/badge/Discord-38BDF8?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-0369A1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>Last updated: 2026</sub>
-</p>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=aras-SIGMA&show_icons=true&theme=github_dark&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&bg_color=0D1117&cache_seconds=86400" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aras-SIGMA&layout=compact&theme=github_dark&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0D1117&cache_seconds=86400" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:38BDF8,100:BAE6FD&height=100&section=footer" />
+</div>
+
+<div align="center">
+
+<img height="155" src="https://streak-stats.demolab.com/?user=aras-SIGMA&theme=github-dark-blue&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=94A3B8&sideNums=94A3B8&dates=475569&background=0D1117" />
+
+</div>
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aras-SIGMA&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=94A3B8" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>aras-SIGMA · 2026</sub>
+</div>
