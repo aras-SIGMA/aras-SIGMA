@@ -7,8 +7,8 @@ SMK student building across **Full-Stack Web**, **AI Engineering**, and **Data A
 [![GitHub](https://img.shields.io/badge/GitHub-aras--SIGMA-3B82F6?style=flat-square&logo=github)](https://github.com/aras-SIGMA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=flat-square&logo=linkedin)](https://linkedin.com/in/ISI_DISINI)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-3B82F6?style=flat-square&logo=instagram)](https://instagram.com/ISI_DISINI)
-[![Email](https://img.shields.io/badge/Email-Contact-3B82F6?style=flat-square&logo=gmail)](mailto:ISI_DISINI)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=flat-square&logo=googlechrome)](https://ISI_DISINI)
+[![Email](https://img.shields.io/badge/Email-Contact-3B82F6?style=flat-square&logo=gmail)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3B82F6?style=flat-square&logo=googlechrome)](http://portofolio-stefano-two.vercel.app/)
 
 ![Views](https://komarev.com/ghpvc/?username=aras-SIGMA&label=views&color=3B82F6&style=flat-square)
 
